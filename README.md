@@ -15,3 +15,16 @@ Every time a new hour begins, the whole watch elegantly spins 360° over 5 secon
 - Demo mode that spins every minute (`?demo`)
 - Customizable dial name
 - Responsive SVG
+
+## Live Demo
+
+Open `index.html` in any modern browser, or host it on GitHub Pages.
+
+**Demo mode**: add `?demo` to the URL to make the watch spin every minute instead of every hour.
+
+## How to use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pragyaonherlaptop/everytime-clock.git
+   cd everytime-clock
