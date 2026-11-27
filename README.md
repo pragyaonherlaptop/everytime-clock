@@ -1,4 +1,4 @@
-# ⏱︎ everytime-clock ⏱︎ 
+# ⏱︎ Everytime-Clock ⏱︎ 
 
 hi, this project is a vintage pocket-watch style analog clock drawn entirely with SVG (no images).
 
