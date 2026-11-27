@@ -28,3 +28,5 @@ Open `index.html` in any modern browser, or host it on GitHub Pages.
    ```bash
    git clone https://github.com/pragyaonherlaptop/everytime-clock.git
    cd everytime-clock
+
+   pppp
